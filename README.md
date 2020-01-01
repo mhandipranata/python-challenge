@@ -21,3 +21,41 @@ We will use for loop in phyton to do all calculation and track all the change of
 
 Result:
 
+Financial Analysis
+=========================
+Total Months: 86
+Total: $38382578
+Average Change: $-2315.12
+Greatest Increase In Profits Feb-2012, ($1926159)
+Greatest Decrease In Profits Sep-2013, ($-2196167)
+
+
+### PyPoll
+
+Analysis:
+We have a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
+
+Using this dataset as a resources, we will analyze and summarize the poll voting record to calculate each of the following:
+- The total number of votes cast
+- A complete list of candidates who received votes
+- The percentage of votes each candidate won
+- The total number of votes each candidate won
+- The winner of the election based on popular vote.
+
+(How?)
+
+We will use for loop in phyton to calculate the total votes, extract each candidate name, and track the candidate voter count.
+
+Result:
+
+Election Results
+-------------------------
+Total Votes: 3521001
+-------------------------
+Khan: 63.000% (2218231)
+Correy: 20.000% (704200)
+Li: 14.000% (492940)
+O'Tooley: 3.000% (105630)
+-------------------------
+Winner: Khan
+-------------------------

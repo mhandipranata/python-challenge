@@ -20,6 +20,7 @@ Using this dataset as a resources, we will analyze and summarize the financial r
 We will use for loop in phyton to do all calculation and track all the change of month and profit/losses.
 
 Result:
+
 ![PyBank](https://github.com/mhandipranata/python-challenge/blob/master/PyBank/PyBank.png)
 
 ### PyPoll
@@ -39,4 +40,5 @@ Using this dataset as a resources, we will analyze and summarize the poll voting
 We will use for loop in phyton to calculate the total votes, extract each candidate name, and track the candidate voter count.
 
 Result:
+
 ![PyPoll](https://github.com/mhandipranata/python-challenge/blob/master/PyPoll/PyPoll.png)
